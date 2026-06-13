@@ -1,0 +1,22 @@
+{
+  "users": {
+    "ivanov": {
+      "salt": "9d391673430691e4ff92f9f7e93a958a",
+      "passwordHash": "66e437f3afb2066d58cbd36c6b06403f514890bf1c4df5a2cca2b1a9c87a8c6991dfe0eb0ec5aac584d2242421e9dcc7d6cdce61dd7c3376b189a4bf6abb1ac3",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "lastLoginAt": null
+    },
+    "petrov": {
+      "salt": "7a92f906d98327b97e1edd0f8ee3af59",
+      "passwordHash": "1ab4f0206e9f1a56211d105966a647b6560c75a7c5ad6c2a4672d5a8e028bacacb237f8ab465dc13d308103f0ac2ce7dcc698c0493c3e7e69d7e08a4a49a6240",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "lastLoginAt": null
+    },
+    "sidorova": {
+      "salt": "06e5452932bdf236871ff7f27c7c96ce",
+      "passwordHash": "4e6beb1f067b3bd9055e175a374e6107cf1a8965b5aa31dec85b827da72d23527244e9a959069a5cab5a7d3014b4d7a23271ffd81dc16f3bd4aa10a1d59399e4",
+      "createdAt": "2026-06-13T00:00:00.000Z",
+      "lastLoginAt": null
+    }
+  }
+}

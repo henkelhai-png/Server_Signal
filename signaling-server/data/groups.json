@@ -1,0 +1,13 @@
+[
+  {
+    "id": "group_demo_it",
+    "name": "ИТ-отдел",
+    "members": [
+      "ivanov",
+      "petrov",
+      "sidorova"
+    ],
+    "createdBy": "ivanov",
+    "createdAt": "2026-06-13T00:00:00.000Z"
+  }
+]
